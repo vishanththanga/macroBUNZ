@@ -1,4 +1,4 @@
 # macroBUNZ
 
 ## What Is It
-macroBUNZ is an IOS App that can be integrated with the BUNZ app. Using both an exchange and arbitration smart contract, if a buyer finds defects or issues with a product. They can file a complaint and take the seller to a decentralized court, making the situation as fair as possible for both parties.
+macroBUNZ tackles BUNZ's issue of dealing with regional and category instability while expanding. Our team provides solutions using our knowledge of economics and uses a sample smart contract to carry out our solutions
